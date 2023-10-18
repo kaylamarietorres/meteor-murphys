@@ -1,6 +1,5 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './style.css';
 import { Container, Image, Navbar, Nav } from 'react-bootstrap';
 import { Instagram, Facebook, Twitter } from 'react-bootstrap-icons';
 

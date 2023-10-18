@@ -1,6 +1,5 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './style.css';
 import { Row, Col } from 'react-bootstrap';
 
 const CenterText = () => (
