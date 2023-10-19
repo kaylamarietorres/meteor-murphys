@@ -9,8 +9,10 @@
 
 body {
   --bs-body-color: white;
-  background: url("../public/images/murphys-new-background.jpeg") no-repeat center center fixed;
+  background: url("/images/murphys-new-background.jpeg") no-repeat center center fixed;
   background-size: cover;
+  --bs-dark: #1B4F24;
+  --bs-dark-rgb: #1B4F24;
 }
 
 .nav {
@@ -22,6 +24,9 @@ body {
 }
 
 #centerText {
-  height: 650px;
+  color: white;
+  height: 500px;
 }
-
+a.nav-link{
+  color: white;
+}
